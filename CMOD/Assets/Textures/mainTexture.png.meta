@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: ec2ea38f93a08164fad8c403f18a5291
+timeCreated: 1475629322
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drone_00
+    21300002: drone_01
+    21300004: drone_02
+    21300006: drone_03
+    21300008: drone_04
+    21300010: drone_05
+    21300012: mainTexture_0
+    21300014: bigCheese_00
+    21300016: bigCheese_01
+    21300018: bigCheese_02
+    21300020: mainTexture_1
+    21300022: bigCheese_04
+    21300024: toughGuy_00
+    21300026: toughGuy_01
+    21300028: toughGuy_02
+    21300030: toughGuy_03
+    21300032: melee_00
+    21300034: melee_01
+    21300036: melee_02
+    21300038: melee_03
+    21300040: pistol_00
+    21300042: pistol_01
+    21300044: pistol_02
+    21300046: cash_00
+    21300048: options
+    21300050: ammo
+    21300052: health
+    21300054: toughGuy_04
+    21300056: toughGuy_05
+    21300058: menu
+    21300060: healthUp
+    21300062: missionFailed
+    21300064: missionComplete
+    21300066: shieldIcon
+    21300068: blastIcon
+    21300070: bullseyeIcon
+    21300072: starIcon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: 12
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drone_00
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 3521
+        width: 442
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drone_01
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 3560
+        width: 297
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drone_02
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 3565
+        width: 296
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drone_03
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 3566
+        width: 244
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drone_04
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 2987
+        width: 274
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drone_05
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2986
+        width: 250
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainTexture_0
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 2944
+        width: 457
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bigCheese_00
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2431
+        width: 395
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bigCheese_01
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 2431
+        width: 428
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bigCheese_02
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 2431
+        width: 352
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainTexture_1
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1854
+        width: 380
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bigCheese_04
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1856
+        width: 319
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_00
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 1860
+        width: 277
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_01
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1282
+        width: 334
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_02
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1289
+        width: 366
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_03
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1280
+        width: 396
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: melee_00
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1152
+        width: 1033
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: melee_01
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 797
+        width: 1030
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: melee_02
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 249
+        width: 637
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: melee_03
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 122
+        width: 799
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_00
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 960
+        width: 387
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_01
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 959
+        width: 519
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pistol_02
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 255
+        width: 307
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cash_00
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1046
+        width: 416
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: options
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1144
+        width: 245
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1118
+        width: 200
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: health
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 970
+        width: 248
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_04
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 585
+        width: 320
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: toughGuy_05
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 68
+        width: 350
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 417
+        width: 552
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: healthUp
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 61
+        width: 405
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missionFailed
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 91
+        width: 218
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missionComplete
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 90
+        width: 224
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shieldIcon
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 70
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blastIcon
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 70
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bullseyeIcon
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: starIcon
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 70
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
