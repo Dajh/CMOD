@@ -117,7 +117,9 @@
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\NotificationManager.cs" />
     <Compile Include="Assets\Scripts\PingPongDistance.cs" />
+    <Compile Include="Assets\Scripts\Powerup_Ammo.cs" />
     <Compile Include="Assets\Scripts\Powerup_Dollar.cs" />
+    <Compile Include="Assets\Scripts\Powerup_Health.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Animation\README.txt" />
